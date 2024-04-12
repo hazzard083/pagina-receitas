@@ -1,0 +1,41 @@
+.container {
+  width: 800px;
+  margin: 48px auto 100px;
+  padding: 24px;
+  gap: 24px;
+  border-radius: 24px;
+  background-color: var(--surface-color);
+}
+
+.image {
+  width: fit-content;
+  height: 400px;
+  border-radius: 16px;
+}
+
+.main {
+  padding: 0 24px 24px 24px;
+  gap: 24px;
+}
+
+.about {
+  gap: 4px;
+}
+
+.info {
+  gap: 12px;
+}
+
+.ingredientes {
+  gap: 4px;
+}
+
+.preparo {
+  gap: 4px;
+}
+
+
+.creditos {
+  margin-bottom: 48px;
+  gap: 4px;
+}

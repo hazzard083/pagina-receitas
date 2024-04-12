@@ -1,0 +1,63 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+  font-family: "Alice", serif;
+}
+
+html {
+  font-size: 62.5%;
+}
+
+body {
+  background-color: var(--background-color);
+}
+
+ul {
+  margin-left: 10px;
+}
+
+a {
+  text-decoration: none;
+  color: inherit;
+}
+
+.heading1 {
+  font-size: 4rem;
+  font-weight: 400;
+  line-height: 140%;
+}
+
+.heading2 {
+  font-size: 2.4rem;
+  font-weight: 400;
+  line-height: 150%;
+  color: var(--text-color-primary);
+}
+
+.paragraph {
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 150%;
+  color: var(--text-color-secondary);
+}
+
+.color-on-bg {
+  color: var(--text-color-on-bg);
+}
+
+.flex {
+  display: flex;
+}
+
+.column {
+  flex-direction: column;
+}
+
+.justify-center {
+  justify-content: center;
+}
+
+.align-center {
+  align-items: center;
+}
