@@ -14,7 +14,7 @@
 <br>
 
 <p align="center">
-  <img alt="projeto receita" src="/github/Thumbnail.png" width="100%">
+  <img alt="projeto receita" src="/.github/Thumbnail.png" width="100%">
 </p>
 
 ## 🚀 Tecnologias
