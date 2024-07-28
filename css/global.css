@@ -10,7 +10,8 @@ html {
 }
 
 body {
-  background-color: var(--background-color);
+  background: var(--background-color) url(../assets/bg-image.png);
+  background-size: cover;
 }
 
 ul {
